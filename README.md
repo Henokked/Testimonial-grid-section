@@ -10,8 +10,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Henokked/ Testimonial-grid-section
+- Live Site URL: https://henokked.github.io/Testimonial-grid-section/
 
 
 
